@@ -21,4 +21,5 @@ A mobile app that lets you browse and search Wikipedia articles **offline**.
    npm start
    
 ## Screenshots (Home Screen)
-![Offline Wiki App Screenshot] <img width="374" height="832" alt="Screenshot 2025-07-11 152319" src="https://github.com/user-attachments/assets/5a6d3948-fa9a-4337-b131-b14261dd5781" />
+<img width="374" height="832" alt="Screenshot 2025-07-11 152319" src="https://github.com/user-attachments/assets/5a6d3948-fa9a-4337-b131-b14261dd5781" />
+
