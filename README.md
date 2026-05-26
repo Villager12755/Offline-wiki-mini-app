@@ -1,28 +1,18 @@
 # Offline-wiki-mini-app
 
-A mobile app that lets you browse and search Wikipedia articles **offline**.
+A mobile app that lets you browse and search articles **offline**.
 
 ## OfflineWiki Features
-- Search and read saved Wikipedia pages without internet
-- Clean, simple interface
-- Works entirely offline after initial setup
+Search and read saved articles without internet!
+Clean, very simple interface
+It works offline after initial download and setup
 
 ## Coding Languages Used
-- React Native (frontend)
-- Node.js + Express (backend)
-- SQLite (local database)
+React Native (frontend)
+Node.js + Express (backend)
+SQLite (local database)
 
-## How to Run App 
-1. Clone this repo  
-2. Run the backend  
-   ```bash
-   cd backend
-   npm install
-   npm start
-Or:
+## How to Run the App 
 1. Download the APK file and add it to google drive
 2. Use google drive on your phone to then run the APK 
    
-## Screenshots (Home Screen)
-<img width="374" height="832" alt="Screenshot 2025-07-11 152319" src="https://github.com/user-attachments/assets/5a6d3948-fa9a-4337-b131-b14261dd5781" />
-
